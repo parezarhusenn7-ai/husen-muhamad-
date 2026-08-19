@@ -1,0 +1,6 @@
+{
+  "name": "حوسێن محەمەد | پارێزەر",
+  "description": "کارتی دیجیتاڵی و ماڵپەڕی فەرمی پارێزەر حوسێن محەمەد - پێشکەشکردنی سەرجەم خزمەتگوزاری و ڕاوێژە یاساییەکان لە هەولێر و کوردستان.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
